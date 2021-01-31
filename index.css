@@ -1,7 +1,26 @@
+body {background-color: #1c1c1c!important }
+
 .todoapp {
     font-size:xx-large;
     text-align: center;
      
 }
-
+.container {
+    margin-top: 50px;
+    width: 50%!important;
 }
+form {
+    background: #232324;
+    border: 3px solid #363636;
+    border-radius: 20px;
+    padding: 50px 30px;
+}
+#list --> id="list"
+#list {
+    width: 60%;
+    float: left; # Обтекание по правому краю
+    margin-right: 5%; # Отступ справа 
+}
+h1 {
+    color: #d9d9d9;
+} 
