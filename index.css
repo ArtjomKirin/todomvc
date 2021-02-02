@@ -1,5 +1,6 @@
-body {background-color: #1c1c1c!important }
-
+body {
+    background-color: #1c1c1c
+}
 .todoapp {
     font-size:xx-large;
     text-align: center;
@@ -7,15 +8,14 @@ body {background-color: #1c1c1c!important }
 }
 .container {
     margin-top: 50px;
-    width: 50%!important;
+    width: 50%!;
 }
 form {
     background: #232324;
     border: 3px solid #363636;
     border-radius: 20px;
     padding: 50px 30px;
-}
-#list --> id="list"
+}"
 #list {
     width: 60%;
     float: left;

@@ -1,3 +1,3 @@
-synchronized (Note.notes) {
-    Note.addNote(String.format("%s-Note%d", getName(), i));
-}
+function readInput() {
+    return document.getElementById('textbox_id').value
+    }
